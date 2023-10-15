@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/task3colorpicker/static/css/main.10ed180e.css",
+    "main.js": "/task3colorpicker/static/js/main.5f352602.js",
+    "static/js/787.05b7a068.chunk.js": "/task3colorpicker/static/js/787.05b7a068.chunk.js",
+    "index.html": "/task3colorpicker/index.html",
+    "main.10ed180e.css.map": "/task3colorpicker/static/css/main.10ed180e.css.map",
+    "main.5f352602.js.map": "/task3colorpicker/static/js/main.5f352602.js.map",
+    "787.05b7a068.chunk.js.map": "/task3colorpicker/static/js/787.05b7a068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ed180e.css",
+    "static/js/main.5f352602.js"
+  ]
+}
